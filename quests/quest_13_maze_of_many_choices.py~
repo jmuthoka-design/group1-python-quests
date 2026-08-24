@@ -1,0 +1,10 @@
+score = int(input("Enter your score (0-100): "))
+
+if score >= 90:
+    print("A")
+elif:
+    print("B")
+elif:
+    print("C")
+else:
+    print("Needs improvement")
