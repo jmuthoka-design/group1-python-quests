@@ -1,0 +1,23 @@
+#!/usr/bin/env python3
+
+age = int(input("Enter your age: "))
+gold = int(input("Enter your gold coins: "))
+
+if not (age >= 18 and gold >= 20):
+    print("Sorry, you cannot enter.")
+else:
+    print("You may enter the club!")
+
+if (age >= 18 and gold >= 20) or is_vip:
+    print("You may enter the club!")
+
+
+#!/usr/bin/env python3
+
+age = int(input("Enter your age: "))
+gold = int(input("Enter your gold coins: "))
+
+if not (age >= 18 and gold >= 20):
+    print("Sorry, you cannot enter.")
+else:
+    print("You may enter the club!")
