@@ -1,6 +1,6 @@
 # group1-python-quests
 
-Python fundamentals quests completed for the "Learn Python by Coding" ALCHE assignment.
+Python fundamentals quests 
 
 ## About
 
@@ -12,14 +12,14 @@ Each member owns 2 of the 6 levels:
 
 | Member | Levels Owned | Quests |
 |---|---|---|
-| [Name 1] | Level 1 – Variables & Printing | 1, 2, 3, 4, 5 |
+| [Mary Njuguna] | Level 1 – Variables & Printing | 1, 2, 3, 4, 5 |
 | | Level 2 – User Input & Basic Math | 6, 7, 8, 9, 10 |
-| [Name 2] | Level 3 – Conditional Statements | 11, 12, 13, 14, 15 |
+| [Jemima Wavinya] | Level 3 – Conditional Statements | 11, 12, 13, 14, 15 |
 | | Level 4 – Loops | 16, 17, 18, 19, 20 |
-| [Name 3] | Level 5 – Functions | 21, 22, 23, 24 |
+| [Florence Dushime] | Level 5 – Functions | 21, 22, 23, 24 |
 | | Level 6 – The Grand Challenge | 25, 26, 27, 28, 29, 30 |
 
-*(Fill in actual names above before submitting.)*
+
 
 ## Directory Structure
 
@@ -55,19 +55,19 @@ Each script can be run individually with Python 3:
 python3 quests/quest_01_first_spell.py
 ```
 
-Most scripts from Quest 6 onward prompt for input via the terminal — run them interactively and type your answers when prompted. A few notes on specific scripts:
+Most scripts from Quest 6 onward prompt for input via the terminal run them interactively and type your answers when prompted. A few notes on specific scripts:
 - **Quest 25** (Number Wizard) picks a genuinely random secret number each run — there's no fixed answer to guess.
 - **Quest 26** (Simple Calculator) accepts `add`, `subtract`, `multiply`, or `divide` as the operation input.
 - **Quest 28** (Adventure Begins) has two distinct endings depending on the choices you make.
 
-## Contributing (for group members)
+## Contributing for group members
 
 1. Clone the repo:
    ```bash
    git clone https://github.com/<owner-username>/group1-python-quests.git
    cd group1-python-quests
    ```
-2. Before starting work, pull the latest changes:
+2. Before starting work, pulled the latest changes:
    ```bash
    git pull origin main
    ```
@@ -82,9 +82,9 @@ Most scripts from Quest 6 onward prompt for input via the terminal — run them 
 
 ## Peer Review
 
-This group reviewed two peer groups' submissions as required by Deliverable 2. Feedback was provided via [GitHub PR comments / Issues — update with the method actually used].
+This group reviewed two peer groups' submissions as required by Deliverable 
 
 ## Notes
 
-- All 30 scripts were tested in Python 3.12 before submission — every conditional branch and loop boundary was run and confirmed to produce the expected output.
+- All 30 scripts were tested in Python 3.12 before submission every conditional branch and loop boundary was run and confirmed to produce the expected output.
 - **Quest 30** (Reflective Scribe) adds explanatory comments to three earlier scripts: `quest_07_magic_number_converter.py`, `quest_13_maze_of_many_choices.py`, and `quest_18_loop_of_riddles.py`. Each comment explains *why* the code is written that way, not just what it does.
