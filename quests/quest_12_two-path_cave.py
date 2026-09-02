@@ -1,0 +1,9 @@
+#!/usr/bin/env python3
+correct_password = "Jemi343"
+
+password = str(input("enter your password: "))
+
+if password == correct_password:
+    print("Access granted")
+else:
+    print("Access denied")
