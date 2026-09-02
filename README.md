@@ -87,4 +87,4 @@ This group reviewed two peer groups' submissions as required by Deliverable
 ## Notes
 
 - All 30 scripts were tested in Python 3.12 before submission every conditional branch and loop boundary was run and confirmed to produce the expected output.
-- **Quest 30** (Reflective Scribe) adds explanatory comments to three earlier scripts: `quest_07_magic_number_converter.py`, `quest_13_maze_of_many_choices.py`, and `quest_18_loop_of_riddles.py`. Each comment explains *why* the code is written that way, not just what it does.
+- **Quest 30** (Reflective Scribe) adds explanatory comments to three earlier scripts: ` quest_21_reusable_incantation.py , ` quest_22_personalized_scroll.py`, and ` quest_24_master_spell.py`. Each comment explains what the codde does.
